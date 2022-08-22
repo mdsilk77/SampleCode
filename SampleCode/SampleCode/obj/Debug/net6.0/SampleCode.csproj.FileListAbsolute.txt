@@ -1,0 +1,15 @@
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\bin\Debug\net6.0\SampleCode.exe
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\bin\Debug\net6.0\SampleCode.deps.json
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\bin\Debug\net6.0\SampleCode.runtimeconfig.json
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\bin\Debug\net6.0\SampleCode.dll
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\bin\Debug\net6.0\SampleCode.pdb
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\SampleCode.csproj.AssemblyReference.cache
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\SampleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\SampleCode.AssemblyInfoInputs.cache
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\SampleCode.AssemblyInfo.cs
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\SampleCode.csproj.CoreCompileInputs.cache
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\SampleCode.dll
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\refint\SampleCode.dll
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\SampleCode.pdb
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\SampleCode.genruntimeconfig.cache
+C:\Users\msilkwood\OneDrive - Service Management Group, Inc\Documents\Source Code\SampleCode\SampleCode\SampleCode\obj\Debug\net6.0\ref\SampleCode.dll

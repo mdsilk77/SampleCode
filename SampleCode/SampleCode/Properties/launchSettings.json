@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SampleCode": {
+      "commandName": "Project",
+      "commandLineArgs": "III"
+    }
+  }
+}
